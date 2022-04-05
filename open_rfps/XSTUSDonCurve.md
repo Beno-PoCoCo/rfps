@@ -74,7 +74,11 @@ Mint $1 Million in XOR and swap for XSTUSD, to add to the XSTUSD-3CRV liquidity 
 This will give us a significantly higher chance to get awarded a gauge on Curve.
 A governance proposal for the Curve community (CRV holders) to vote on our gauge candidacy is being drafted, we first need more liquidity in the pool for a few weeks to have a chance.
 
-STEP 2:
+STEP 2: 
+Mint $29,000 to buy at least 10,000 CRV. we need to lock this CRV for 1 year to receive 2,500 veCRV. 
+We need these 2,500 veCRV to launch an official proposal to the Curve DAO.
+
+STEP 3:
 Once gauge has been awarded, 
 Mint 2 times bi-weekly $50k in XOR for the first 2 bribe rounds on Votium
 (2) mint 2 times bi-weekly $100k in XOR for the next 2 bribe rounds on Votium, 
